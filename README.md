@@ -9,7 +9,7 @@ Hope You Will Like It and you can also use the code to make your own version.
 
 ---
 
-### Installing The gTTS Module:
+### Installing The PIL Module:
 * For Linux: Open Terminal then type ```pip3 install PIL```
 * For Windows: Open CMD, then type ```pip install PIL```
 
